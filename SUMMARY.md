@@ -15,8 +15,8 @@
 
 * [Official resources](elasticsearch/official-resources.md)
 * [Generate certificates](elasticsearch/generating-certificates.md)
-* [Deploy a quick cluster](elasticsearch/deploy-development-cluster/README.md)
-  * [Configuration](elasticsearch/deploy-development-cluster/configuration.md)
-  * [Bootstrapping](elasticsearch/deploy-development-cluster/bootstrapping.md)
-  * [Start the cluster](elasticsearch/deploy-development-cluster/start-the-cluster.md)
+* [Deploy a quick cluster](elasticsearch/compose-dev-cluster/README.md)
+  * [Configuration](elasticsearch/compose-dev-cluster/configuration.md)
+  * [Bootstrapping](elasticsearch/compose-dev-cluster/bootstrapping.md)
+  * [Start the cluster](elasticsearch/compose-dev-cluster/start-the-cluster.md)
 
