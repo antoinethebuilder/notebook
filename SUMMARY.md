@@ -9,14 +9,14 @@
 ## AWS
 
 * [CLI](aws/cli/README.md)
-  * [Quick Reference](aws/cli/quick-reference.md)
+  * [Quick Reference](aws/cli/quick-ref.md)
 
-## ELASTICSEARCH
+## ELASTICSEARCH <a id="es"></a>
 
-* [Official resources](elasticsearch/official-resources.md)
-* [Generate certificates](elasticsearch/generating-certificates.md)
-* [Deploy a quick cluster](elasticsearch/compose-dev-cluster/README.md)
-  * [Configuration](elasticsearch/compose-dev-cluster/configuration.md)
-  * [Bootstrapping](elasticsearch/compose-dev-cluster/bootstrapping.md)
-  * [Start the cluster](elasticsearch/compose-dev-cluster/start-the-cluster.md)
+* [Official resources](es/official-resources.md)
+* [Generate certificates](es/generating-certificates.md)
+* [Deploy a quick cluster](es/dev-cluster/README.md)
+  * [Configuration](es/dev-cluster/config.md)
+  * [Bootstrapping](es/dev-cluster/bootstrap.md)
+  * [Start the cluster](es/dev-cluster/start.md)
 
