@@ -20,3 +20,7 @@
   * [Bootstrapping](es/dev-cluster/bootstrap.md)
   * [Start the cluster](es/dev-cluster/start.md)
 
+## 3D PRINTING
+
+* [Extruder Calibration](3d-printing/extruder-calibration.md)
+
