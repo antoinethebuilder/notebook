@@ -1,7 +1,7 @@
 ---
 description: >-
-  This is my personal diary. It may contains stories, code snippets and more.
-  Feel free to criticize and/or enjoy.
+  This is my personal notes. It contains stories, code snippets and more. Feel
+  free to criticize and/or enjoy.
 ---
 
 # Introduction
