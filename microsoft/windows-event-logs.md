@@ -19,7 +19,7 @@
 
 ## **Group Management Events**
 
-**This dashboard shows information about Group Management Events**
+**This shows information about Group Management Events**
 
 | Event | Description | Event | Description |
 | :--- | :--- | :--- | :--- |
