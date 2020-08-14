@@ -1,3 +1,7 @@
+---
+description: 'Quick reference, this does not contain everything at all.'
+---
+
 # Windows Event Logs
 
 ## User Management Events
@@ -14,8 +18,6 @@
 | 4740 | An user account was locked out |
 | 4767 | An account was unlocked |
 | 4781 | The name of an account was changed |
-
-
 
 ## **Group Management Events**
 

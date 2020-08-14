@@ -2,34 +2,37 @@
 
 * [Introduction](README.md)
 
-## Python
+## Cloud Providers <a id="cloud"></a>
 
-* [Working with Pandas](python/working-with-pandas.md)
+* [AWS](cloud/aws/README.md)
+  * [CLI](cloud/aws/cli/README.md)
+    * [Quick Reference](cloud/aws/cli/quick-ref.md)
 
-## AWS
+## Monitoring <a id="monitor"></a>
 
-* [CLI](aws/cli/README.md)
-  * [Quick Reference](aws/cli/quick-ref.md)
+* [Elasticsearch](monitor/elasticsearch/README.md)
+  * [Generate certificates](monitor/elasticsearch/generating-certificates.md)
+  * [Deploy a quick cluster](monitor/elasticsearch/dev-cluster/README.md)
+    * [Configuration](monitor/elasticsearch/dev-cluster/config.md)
+    * [Bootstrapping](monitor/elasticsearch/dev-cluster/bootstrap.md)
+    * [Start the cluster](monitor/elasticsearch/dev-cluster/start.md)
 
-## ELASTICSEARCH <a id="es"></a>
+## VIRTUALIZATION <a id="virt"></a>
 
-* [Official resources](es/official-resources.md)
-* [Generate certificates](es/generating-certificates.md)
-* [Deploy a quick cluster](es/dev-cluster/README.md)
-  * [Configuration](es/dev-cluster/config.md)
-  * [Bootstrapping](es/dev-cluster/bootstrap.md)
-  * [Start the cluster](es/dev-cluster/start.md)
+* [VirtualBox](virt/virtualbox/README.md)
+  * [Unable to register hard disk \(UUID already exists\)](virt/virtualbox/common-problems.md)
+
+## Coding
+
+* [Python](coding/python/README.md)
+  * [Working with Pandas](coding/python/working-with-pandas.md)
 
 ## 3D PRINTING
 
 * [Extruder Calibration](3d-printing/extruder-calibration.md)
 
-## MICROSOFT
+## REFERENCE
 
-* [Windows Event Logs](microsoft/windows-event-logs.md)
-
-## VIRTUALIZATION <a id="virt"></a>
-
-* [VirtualBox](virt/virtualbox/README.md)
-  * [Common Problems](virt/virtualbox/common-problems.md)
+* [Elasticsearch Links](reference/es-official-doc.md)
+* [Windows Event Logs](reference/windows-event-logs.md)
 

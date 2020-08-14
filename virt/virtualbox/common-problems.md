@@ -1,8 +1,6 @@
-# Common Problems
+# Unable to register hard disk \(UUID already exists\)
 
-## Unable to register hard disk \(UUID already exists\)
-
-### Error Details
+## Error Details
 
 Cannot register the hard disk because a hard disk with UUID: { _uuid_  } already exists. 
 
@@ -41,7 +39,7 @@ In use by VMs:  ubuntu-desktop (UUID: 03f657a5-cb04-4784-b142-5419cb81607a)
 `By executing this command, we found the root cause. It tells us the virtual disk is nowhere to be found.`
 {% endhint %}
 
-### Solution
+## Solution
 
 Change the virtual disk's UUID by running this command:
 
