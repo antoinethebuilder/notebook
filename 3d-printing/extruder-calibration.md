@@ -43,14 +43,10 @@ Write down the E-value, this is your printer's steps/mm.
 #### New steps/mm
 
 $$
-120 - (100 - result) / (steps * 100)= newsteps
+steps * (100 / (120 - result) = newsteps
 $$
 
-$$
-120 - (100 - 23.5)/(107.27 * 100) = 119.99
-$$
-
-Finally, to set the new steps/mm, send `M92 E{NEWSTEPS}` which in my case is: `M92 E119.99`
+Finally, to set the new steps/mm, send `M92 E{NEWSTEPS}` which in my case is: `M92 E100`
 
 Save your changes by sending: `M500`
 
