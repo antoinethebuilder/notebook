@@ -59,6 +59,8 @@ Open-source intelligence\(OSINT\) and Web-based Footprinting optional/modular fr
 
 The goal of the OWASP Honeypot Project is to identify emerging attacks against web applications and report them to the community, in order to facilitate protection against such targeted attacks.
 
+#### [Docker MISP Container](https://github.com/harvard-itsecurity/docker-misp)
+
 ## Hardening / Standards
 
 ### [ASVS](https://github.com/OWASP/ASVS/tree/master) [Application Security Verification Standard](https://github.com/OWASP/ASVS/tree/master)
