@@ -31,8 +31,6 @@
 
 * [Extruder Calibration](3d-printing/extruder-calibration.md)
 
-## REFERENCE
-
 ---
 
 * [Resources](resources.md)
