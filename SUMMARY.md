@@ -33,6 +33,7 @@
 
 ## REFERENCE
 
-* [Elasticsearch Links](reference/es-official-doc.md)
-* [Windows Event Logs](reference/windows-event-logs.md)
+---
+
+* [Resources](resources.md)
 
