@@ -35,3 +35,7 @@
 
 * [Resources](resources.md)
 
+## AUTOMATION
+
+* [Building VMs with Packer](automation/building-vms-with-packer.md)
+

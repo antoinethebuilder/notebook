@@ -2,6 +2,10 @@
 
 ## Using docker-compose
 
+{% hint style="warning" %}
+This has no relations with the previous section regarding certificates.
+{% endhint %}
+
 This demonstrate how to use docker-compose to quickly deploy a cluster.
 
 **Remember**: By default, a node is all of the following types: master-eligible, data, ingest, and \(if available\) machine learning. All data nodes are also transform nodes.
