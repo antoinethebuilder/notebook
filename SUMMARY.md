@@ -2,6 +2,12 @@
 
 * [Introduction](README.md)
 
+## AUTOMATION
+
+* [Packer](automation/packer/README.md)
+  * [Building Vagrant Boxes](automation/packer/building-vms-with-packer.md)
+* [Siemplify - Cheat Sheet](automation/siemplify-cheat-sheet.md)
+
 ## Cloud Providers <a id="cloud"></a>
 
 * [AWS](cloud/aws/README.md)
@@ -16,6 +22,8 @@
     * [Configuration](monitor/elasticsearch/dev-cluster/config.md)
     * [Bootstrapping](monitor/elasticsearch/dev-cluster/bootstrap.md)
     * [Start the cluster](monitor/elasticsearch/dev-cluster/start.md)
+* [Filebeat](monitor/filebeat/README.md)
+  * [Fortinet](monitor/filebeat/fortinet.md)
 
 ## VIRTUALIZATION <a id="virt"></a>
 
@@ -34,8 +42,4 @@
 ---
 
 * [Resources](resources.md)
-
-## AUTOMATION
-
-* [Building VMs with Packer](automation/building-vms-with-packer.md)
 
