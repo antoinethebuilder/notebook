@@ -6,7 +6,7 @@
 
 * [Packer](automation/packer/README.md)
   * [Building Vagrant Boxes](automation/packer/building-vms-with-packer.md)
-* [Siemplify - Cheat Sheet](automation/siemplify-cheat-sheet.md)
+* [Siemplify - API Endpoints](automation/siemplify-cheat-sheet.md)
 
 ## Cloud Providers <a id="cloud"></a>
 
