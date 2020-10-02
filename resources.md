@@ -18,8 +18,15 @@ Open Source Tool that orchestrates security tests and centralizes all results in
 ### Elasticsearch
 
 * [Generate certificates](https://www.elastic.co/guide/en/elasticsearch/reference/current/encrypting-communications-certificates.html#encrypting-communications-certificates)
-* [Encrypting Internode communications](https://www.elastic.co/guide/en/elasticsearch/reference/current/encrypting-internode.html)
 * [Add nodes to your cluster](https://www.elastic.co/guide/en/elasticsearch/reference/current/encrypting-communications-hosts.html#encrypting-communications-hosts)
+* [Elasticsearch detection rules](https://github.com/elastic/detection-rules)
+* \*\*\*\*[Visualizing observability data](https://www.elastic.co/webinars/visualizing-observability-data)
+* [Encrypting Internode communications](https://www.elastic.co/guide/en/elasticsearch/reference/current/encrypting-internode.html)
+* [Ad hoc threat hunting with Elastic Security](https://www.elastic.co/webinars/ad-hoc-threat-hunting-with-elastic-security)
+* [Federal Security Standards: Hardening World](https://www.elastic.co/webinars/federal-security-standards-hardening-world)
+* [Instrument and monitor a Python application using APM](https://www.elastic.co/webinars/instrument-and-monitor-a-python-application-using-apm)
+* [Alerting for observability, security, and the Elastic Stack](https://www.elastic.co/webinars/alerting-for-the-elastic-stack)
+* [Putting anomalies into context with custom URLs in Kibana](https://www.elastic.co/blog/putting-anomalies-into-context-with-custom-urls-in-kibana) \(premium\)
 
 ## Cyber defense
 
